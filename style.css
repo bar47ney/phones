@@ -1,0 +1,33 @@
+body{
+    background-color: green;
+    font-family: Calibri;
+}
+
+#mainTable{
+    margin: 0 250px;
+    background-color: white;
+}
+
+table table{
+    margin: 7px 0 15px 50px;
+}
+
+caption{
+    width: 260px;
+    color: deepskyblue;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+caption:hover{
+    color: green;
+}
+
+.character{
+    font-size: 10px;
+}
+
+.grayText{
+    color: gray;
+    padding-left: 35px;
+}
